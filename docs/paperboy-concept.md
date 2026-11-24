@@ -110,6 +110,18 @@ Full suite, in version one — modeled on Microsoft's **Xbox Accessibility Guide
 - **Timing (XAG 109):** comic panels never auto-advance before they can be read; no hard timer on the Sort the Mail puzzle.
 - **Photosensitivity:** no flashing above 3 Hz; reduced-motion setting; her Reduced-Flash enforcement.
 - **Inclusion is a feature, not a setting:** the three-presentation Snoo select is part of this — who you are is yours to choose, and it never costs you anything in the game.
+- **The rest of the XAG haul (Sonja, Nov 23 18:50) — also SOP for every project like this:**
+  - **No single "accessibility mode":** these are ordinary settings on the ordinary settings screen. The features most players use anyway (remapping, subtitles, difficulty, text size) are the same ones disabled players need.
+  - **Prompts show YOUR mapping (XAG 107):** every on-screen button prompt reflects the player's current mapping, never the default. A remapped scheme with default glyphs is worse than no remapping.
+  - **Sensitivity & deadzones, per control (XAG 107):** separate steering sensitivity and stick deadzones — not one global slider.
+  - **Menus need digital navigation (XAG 107/112–115):** every menu navigable with D-pad / arrow keys / single presses, with a visible focus indicator. No menu that only works with a mouse or thumbstick — or a player using single-press buttons can never reach the settings that would help them.
+  - **Subtitles, fully specified (XAG 112):** comic panels and chatter get speaker identification, resizable text, mixed case, sans-serif font, solid background.
+  - **Every cue in more than one channel (XAG 103–106):** not just audio→visual. Important visual cues get a non-visual twin too — the subscriber flag's glow pairs with a chime, the inbox flash pairs with a rumble.
+  - **Haptics as a cue channel:** controller rumble on a Front Page! delivery and on taking a hit — with an off switch.
+  - **Object clarity (XAG 117–118):** the inbox, the next house's subreddit sign, and every hazard are readable at a glance at full speed. Nothing important hides in clutter.
+  - **Difficulty, four levels (XAG 116):** Easy Street / Middle Road / Hard Way + Cruise (ultra-low) = four levels, meeting Xbox's own tagging bar. Assists adjust individual mechanics (scroll speed, phones carried, inbox width), not just presets.
+  - **Three saved control profiles:** like the Adaptive Controller's three profiles — a player can keep a keyboard scheme, a controller scheme, and a switch-device scheme and swap between them without reconfiguring.
+  - **XAGs as test prompts, not a checklist:** Microsoft's own framing — the guidelines are design prompts, deliberately not a compliance standard. Test against them as prompts, and test with disabled players where possible (Xbox co-designed with the Gaming & Disability Community, AbleGamers, the Cerebral Palsy Foundation, SpecialEffect).
 
 ### Sound & music (Sonja, Nov 23 18:08)
 
