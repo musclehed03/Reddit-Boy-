@@ -58,6 +58,7 @@ Most longtime Redditors don't know the mascot's name — Sonja had a Reddit acco
 - **Pedestrians → Doomscrollers:** people walking while staring at their phones, drifting into your path.
 - **Debris → Downvote piles / spam cans / "removed" posts** littering the road.
 - Cars, skateboarders, breakdancers, RC toys, rolling tires stay — era-neutral, keep them.
+- **Door Dashers → the food runners:** rival couriers on e-bikes weaving across the road with insulated bags. They ALWAYS ring their bell when they spawn — the Dasher Ding (see Sound & music). The bell is the warning: "damn it, not again, these damn food runners."
 - **Wild card → The Outage:** a dark "server outage" storm sweeps the street — screen dims, hazards speed up. The Grim Reaper / tornado slot from the original.
 - **End of day:** the Training Course becomes **"The Algorithm"** — a bonus obstacle course of ramps and upvote targets for points.
 - **Ramps & potholes (Sonja, Nov 23 13:22):** jump ramps return as **Upvote ramps** — launch off them for airtime bonus; potholes return as **Downvote craters** that slow you and cost control. Kids playing in the street return in Reddit-world terms: kids with **Snoo dolls/plushies**, a kid flying a **toy drone**, a kid with an **RC car** — same spirit as the original's kids with Barbies and RC toys.
@@ -114,6 +115,10 @@ Full suite, in version one — modeled on Microsoft's **Xbox Accessibility Guide
 - **But it's OURS, not a copy:** an original composition — different key, different melody, our own arrangement — so nobody can sue us. Inspired by, never lifted from.
 - **Sound effects:** the throw goes "TWAP!" (the original's signature sound); perfect deliveries go BONK! / FRONT PAGE! in comic lettering. Every audio cue has a visual twin (Accessibility Suite).
 - **No licensed music anywhere** — everything original, so the hackathon submission stays clean.
+- **Dynamic music — the psyche-out (Sonja, Nov 23 18:20):** when the pressure's on — a high-stress moment, or you're one delivery from a perfect run — the cheesy tune drops out and a **climactic, psy-ops style dramatic track** kicks in: tense 80s–90s console arpeggios, driving bass, the game psyching you out. It fades back to cheesy once the moment passes. Same trick when Snoo's on a roll: the tune heats up into an "on fire" variation.
+- **Snoo's voice — reactions, subtle but there (Sonja, Nov 23 18:20):** a small reaction bank. Some triggers ALWAYS fire the same signature: a perfect shot ALWAYS gets the "do-do-doop-di-doop" jingle. A missed subscriber ALWAYS gets a groan — but WHICH groan rotates: "Aww man," "That Bytes," and more. On a roll / on fire, Snoo hums the jingle himself with a proud little giggle. Everything rotates with a no-repeat rule so nothing goes stale — the signatures stay constant, the rest keeps changing.
+- **Obstacle chatter (Sonja, Nov 23 18:20):** humanoid obstacles talk when they enter Snoo's sight or step onto the board — the Mod muttering, the Troll taunting, Doomscrollers half-noticing you. Short barks, comic word balloons, audio + visual.
+- **The Dasher Ding (Sonja, Nov 23 18:20):** the Door Dashers' bell — NOT an ordinary bike bell, and NOT the Dixie horn. OURS: a bright 5-note bell melody — ding-ding-DING-ding-DONG, rising, on a glockenspiel-bell timbre — catchy, instantly recognizable, and just annoying enough. It rings every time a Dasher spawns, so the player learns to dread it the way drivers dreaded the General Lee's horn. "Damn it, not again, these damn food runners."
 
 ### Daily structure — the daily loop + run cap
 
