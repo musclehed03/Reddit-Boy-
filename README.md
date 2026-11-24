@@ -17,6 +17,7 @@ You are **Snoo**, riding an e-scooter down a suburban street where every house i
 
 - [`docs/paperboy-concept.md`](docs/paperboy-concept.md) — the full game concept.
 - [`docs/paperboy-elements-map.md`](docs/paperboy-elements-map.md) — every original element (controls, all 20 NES-manual obstacles, scoring, structure, Paperboy 2 features) mapped to its Reddit World version.
+- [`docs/canon-style-bible.md`](docs/canon-style-bible.md) — canon & style bible: the continuity lock every image and screenshot is checked against.
 
 Key art (`reddit-boy-box-art-v3.webp`) lives in the project folder for now — the image is binary and rides along with the code, not with this docs push.
 
