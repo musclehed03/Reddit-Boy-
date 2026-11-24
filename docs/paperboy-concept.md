@@ -90,6 +90,7 @@ Old-school feel and novelty: the game talks to you like an **Archie / Jughead co
 ### Look
 
 - Retro pixel art, oblique view, chunky and readable. Primary palette: Reddit orange (#FF4500) + warm paper cream + dark asphalt.
+- **Graphics bar (Sonja, Nov 23 18:07): just a smidge better than the originals (27–35 years ago) — same retro feel and overall look, but freshened.** Keep the pixel art, the oblique view, the chunky readable shapes. Freshen with smoother animation, cleaner lines, a little more color depth and readability — not a remake, not HD, not 3D. If you squint it should still read as the same game.
 - **Not the Dollhouse Deviants palette as the main look** (her call) — but DD pink is slipped in as an easter egg: one house on every route is the **pink Dollhouse**, with a special pink parcel worth bonus points.
 - Accessibility per her SOP: high contrast, subscriber status shown by Snoo flag AND color (never color alone), readable labels on everything.
 
@@ -106,6 +107,13 @@ Full suite, in version one — modeled on Microsoft's **Xbox Accessibility Guide
 - **Timing (XAG 109):** comic panels never auto-advance before they can be read; no hard timer on the Sort the Mail puzzle.
 - **Photosensitivity:** no flashing above 3 Hz; reduced-motion setting; her Reduced-Flash enforcement.
 - **Inclusion is a feature, not a setting:** the three-presentation Snoo select is part of this — who you are is yours to choose, and it never costs you anything in the game.
+
+### Sound & music (Sonja, Nov 23 18:08)
+
+- **The music is cheesy on purpose** — bright, bouncy, upbeat, in the spirit of the original's tune. Same energy, same grin.
+- **But it's OURS, not a copy:** an original composition — different key, different melody, our own arrangement — so nobody can sue us. Inspired by, never lifted from.
+- **Sound effects:** the throw goes "TWAP!" (the original's signature sound); perfect deliveries go BONK! / FRONT PAGE! in comic lettering. Every audio cue has a visual twin (Accessibility Suite).
+- **No licensed music anywhere** — everything original, so the hackathon submission stays clean.
 
 ### Daily structure — the daily loop + run cap
 
