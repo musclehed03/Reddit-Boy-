@@ -145,6 +145,13 @@ Full suite, in version one — modeled on Microsoft's **Xbox Accessibility Guide
 - **The week is 8 days (Sonja, Nov 23 17:39):** the originals all centered on 7 — ours is **8**. Monday–Sunday plus **Snoo Day**, the 8th day. Snoo Day is the week's finale route: hardest, best rewards, and it IS the **"What's New?"** route — every week it debuts something new (a new obstacle, a new gag, a teaser of what's coming).
 - **3-Perfect Run Streak bonus (Sonja, Nov 23 17:39; reward picked 17:44):** three perfect routes in a row earns the **"What's New?" bonus** — the Daily Snoo front page runs the headline "WHAT'S NEW?" and the player unlocks the **golden scooter skin**: gold body, gold wheels, golden glow. A visible flex that says you did it three times clean.
 
+### "You Spotted It!" trivia (Sonja, Nov 23 18:53)
+
+- **Spottables:** things hidden in plain sight on the routes — the What's New billboard, the pink Dollhouse, the M65 arcade cabinet, the Boy 2 Coming Soon poster, the What's New plaque, Snoo gnomes. Ride past one and the game logs it: "You Spotted It!"
+- **The trivia round:** between routes, on the Daily Snoo front page, the game asks about something you spotted. Correct answer = **+500 points** and the trivia card joins your collection. Collect all 8 cards in a week = a **"Trivia Master"** stamp on your front page.
+- **The What's New billboard:** on every route from week one — a big billboard (sometimes the side of a house) with Snoo smiling or winking and **"What's New?"** on it. The trivia question: "Snoo is Reddit's mascot — how did he get his name?" Answer: **"What's New?"** The joke is the answer has been in your face since day one — shoved in front of you for weeks.
+- **The Paperboy trivia (VERIFIED Nov 23, sources: Colnect, Heritage Auctions):** "What was the first NES game developed in America?" Answer: **Paperboy** — the NES port (Mindscape, 1988, developed by Atari Games and Eastridge Technology). Most NES games were made in Japan; this one wasn't. Bonus nugget for the trivia pool: the Sega Master System version was the first SMS game developed in the UK.
+
 ### Name
 
 - **"Reddit Boy"** — leading pick (Sonja, Nov 23 13:06). "The Daily Snoo" stays as the in-fiction newspaper. Backups: "Postboy", "Postperson", "The Midnight Post". App slug suggestion: `reddit-boy`.
