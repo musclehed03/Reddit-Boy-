@@ -1,0 +1,16 @@
+{
+  "at": "2026-11-25T03:27:47.408Z",
+  "passed": true,
+  "checks": [
+    "PASS canvas present",
+    "PASS render loop advancing — rAF 60 -> 74 in 1s",
+    "PASS no page errors on boot",
+    "PASS no console errors on boot",
+    "PASS Increment click moves the counter — count 0 -> 1",
+    "PASS render loop still advancing after input storm — rAF 265 -> 268 in 0.5s",
+    "PASS no page errors after input storm",
+    "PASS no console errors after input storm",
+    "PASS counter still a finite number after storm — count=1"
+  ],
+  "finalCount": 1
+}
